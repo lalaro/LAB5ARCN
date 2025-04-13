@@ -43,8 +43,40 @@ Este proyecto se divide en:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/event-driven-lab.git
+git clone https://github.com/lalaro/LAB5ARCN.git
 cd event-driven-lab
 ```
+
+## Desarrollo
+
+a. Dockerizado consumer-service
+
+![image1.jpeg](images/image1.jpeg)
+![image2.jpeg](images/image2.jpeg)
+![image3.jpeg](images/image3.jpeg)
+
+b. Dockerizado producer-service
+
+![image4.jpeg](images/image4.jpeg)
+![image5.jpeg](images/image5.jpeg)
+![image6.jpeg](images/image6.jpeg)
+
+c. Subido a Docker Hub
+
+![image7.jpeg](images/image7.jpeg)
+
+d. Corriendo 
+
+![image8.jpeg](images/image8.jpeg)
+
+![image9.jpeg](images/image9.jpeg)
+
+e. Funcionando 
+
+![image10.jpeg](images/image10.jpeg)
+
 ## Licencia
-MIT © 2024 Escuela Colombiana de Ingeniería - ARSW
+MIT © 2025 Escuela Colombiana de Ingeniería - ARSW
+
+## Desarrollado por: 
+Laura Valentina Rodríguez Ortegón - **Ing de Sistemas**
